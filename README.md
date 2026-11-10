@@ -6,7 +6,7 @@
 
 I build practical delivery workflows and cloud-ready applications, with a focus on making software releases repeatable, observable, and reliable.
 
-[Projects](#featured-projects) · [What I work with](#tools--technologies) · [Connect](#connect)
+[Projects](#featured-projects) · [What I work with](#tools--technologies) · [LinkedIn](#connect)
 
 </div>
 
@@ -50,8 +50,9 @@ Notes, scripts, and hands-on experiments documenting my learning across Linux, G
 
 ## Connect
 
-- Browse my [repositories](https://github.com/Mahdi-Warsame?tab=repositories)
-- See what I’m building in [OpsPulse](https://github.com/Mahdi-Warsame/opspulse-devops-project)
+- [LinkedIn](https://www.linkedin.com/in/m-warsame/)
+- [GitHub repositories](https://github.com/Mahdi-Warsame?tab=repositories)
+- [OpsPulse project](https://github.com/Mahdi-Warsame/opspulse-devops-project)
 
 ---
 
